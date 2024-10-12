@@ -18,7 +18,7 @@
 ### 👩‍💻 À propos de moi
 
 <div style="display: flex; align-items: center;">
-<div style="flex: 2;">
+<div style="flex: 1;">
 Actuellement <strong> apprentie développeuse full-stack </strong> à MyDigitalSchool Lille, je suis passionnée par le développement web, l'exploration de nouvelles technologies et la réalisation de projets innovants.
 <br><br>
 
