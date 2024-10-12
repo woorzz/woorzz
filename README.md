@@ -17,22 +17,17 @@
 
 ### 👩‍💻 À propos de moi
 
-<div style="display: flex; align-items: center;">
-<div style="flex: 1;">
+
+
 Actuellement <strong> apprentie développeuse full-stack </strong> à MyDigitalSchool Lille, je suis passionnée par le développement web, l'exploration de nouvelles technologies et la réalisation de projets innovants.
-<br><br>
 
 * 🚀 En ce moment, je découvre les technologies Next.js et Nuxt.js.<br>
 * 🔍 Toujours curieuse, je découvre constamment de nouveaux outils et langages.<br> 
 * 🎨 J’aime soigner le design pour créer des interfaces élégantes et performantes.<br>
 * 📬 Me contacter : marinelangrez@outlook.fr<br>
 
-</p>
-</div>
-<div style="flex: 1; text-align: center;">
-<img src="https://i.ibb.co/5nYw0tP/avatar-marine.png" alt="Marine profile" width="200"/>
-</div>
-</div>
+<br>
+
 
 ---
 
