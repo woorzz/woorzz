@@ -1,67 +1,43 @@
-
-###
-
->
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-
-###
+<h1 align="center">Helloo 👋</h1>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/marine-langrez-profil/" target="_blank">
+  <a href="https://www.linkedin.com/in/marine-langrez-profil/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="25" alt="linkedin logo" />
-  </a></div>
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a French student in the third year of a University Bachelor of Technology, in computer science.<br><br>- 🔭 I'm currently working on several projects.<br>- 📚 I'm currently learning Web Development and other programming languages.<br>- 📫 How to reach me marinelangrez@outlook.fr</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  </a>
+  <a href="https://www.portefolio-langrez-marine.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portefolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25" alt="portfolio logo" />
+  </a>
 </div>
 
-###
+
+
+### 👩‍💻 À propos de moi
+
+<div style="display: flex; align-items: center;">
+<div style="flex: 2;">
+Actuellement <strong> apprentie développeuse full-stack </strong> à MyDigitalSchool Lille, je suis passionnée par le développement web, l'exploration de nouvelles technologies et la réalisation de projets innovants.
+<br><br>
+
+* 🚀 En ce moment, je découvre les technologies Next.js et Nuxt.js.<br>
+* 🔍 Toujours curieuse, je découvre constamment de nouveaux outils et langages.<br> 
+* 🎨 J’aime soigner le design pour créer des interfaces élégantes et performantes.<br>
+* 📬 Me contacter : marinelangrez@outlook.fr<br>
+
+</p>
+</div>
+<div style="flex: 1; text-align: center;">
+<img src="https://i.ibb.co/5nYw0tP/avatar-marine.png" alt="Marine profile" width="200"/>
+</div>
+</div>
+
+---
+
+### 🛠️ Langages et Outils
+
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,angular,vuejs,react,nextjs,nuxtjs,nestjs,python,mongodb,mysql,docker,github" />
+</div>
